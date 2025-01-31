@@ -171,4 +171,5 @@ cython_debug/
 .pypirc
 
 # Output
-fine_tuned_spotify_sentiment
+output/
+model/
